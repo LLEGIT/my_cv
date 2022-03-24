@@ -3,6 +3,14 @@
     padding: 0;
 }
 
+main {
+    background-image: url('./../media/background.png');
+}
+
+main * {
+    color: white;
+}
+
 .article-content {
     text-align: justify;
     font-size: 20px;
