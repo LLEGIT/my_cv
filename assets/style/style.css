@@ -8,7 +8,7 @@ div > div > i:hover {
 }
 
 main {
-    background-image: url('./../media/background.png');
+    background-color: black;
 }
 
 main * {
@@ -17,7 +17,7 @@ main * {
 
 .article-content {
     text-align: justify;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .profile-picture {
