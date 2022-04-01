@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+div > div > i:hover {
+    opacity: 60%;
+}
+
 main {
     background-image: url('./../media/background.png');
 }
@@ -18,6 +22,18 @@ main * {
 
 .profile-picture {
     width: 100%;
+}
+
+.project-container {
+    padding: 15px;
+}
+
+.project-container label {
+    font-size: 15px;
+}
+
+.project-img {
+    width: 90%;
 }
 
 .skill, .hobby {
