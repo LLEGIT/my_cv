@@ -4,7 +4,7 @@
 }
 
 div > div > i:hover {
-    opacity: 60%;
+    transform: rotate(30deg);
 }
 
 main {
