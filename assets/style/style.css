@@ -36,6 +36,10 @@ main * {
     width: 90%;
 }
 
+.project-img:hover {
+    opacity: 70%;
+}
+
 .skill, .hobby {
     display: flex;
     flex-direction: column;
